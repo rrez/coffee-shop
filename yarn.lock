@@ -5722,6 +5722,13 @@ gatsby-page-utils@^0.9.1:
     lodash "^4.17.20"
     micromatch "^4.0.2"
 
+gatsby-plugin-gdpr-cookies@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-gdpr-cookies/-/gatsby-plugin-gdpr-cookies-2.0.0.tgz#7cb3a4c3c8e8b887f73359f3397d4ec6055d5323"
+  integrity sha512-qyCYgxhjJcpVKdG5fBKBlJPmjDV8J6n5UJfCmKcR4gWmJYVVZNKgEi9R1a7C8BS4dOwJ7ZvW84dSW4VqcY9b9g==
+  dependencies:
+    "@babel/runtime" "^7.11.2"
+
 gatsby-plugin-netlify-cms@^4.3.5:
   version "4.10.1"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-netlify-cms/-/gatsby-plugin-netlify-cms-4.10.1.tgz#1ccbb478880c8992ba6742f51acbc86324668651"
@@ -5736,6 +5743,11 @@ gatsby-plugin-netlify-cms@^4.3.5:
     mini-css-extract-plugin "^0.11.2"
     netlify-identity-widget "^1.9.1"
     webpack "^4.46.0"
+
+gatsby-plugin-no-javascript@^2.0.5:
+  version "2.0.5"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-no-javascript/-/gatsby-plugin-no-javascript-2.0.5.tgz#b30bd412fabeab1663b6c40a3aaeee878acfddea"
+  integrity sha512-AV8THLpxFH0lOAYxO2bTkyqucp4KxjbF07GSMNnCpmgWp+G88YGhsuWH/Jc+cjoNZl+01MXvMTsmawBWNypxeA==
 
 gatsby-plugin-page-creator@^2.10.2:
   version "2.10.2"
@@ -14126,9 +14138,9 @@ xss@^1.0.6:
     cssfilter "0.0.10"
 
 xstate@^4.11.0, xstate@^4.14.0, xstate@^4.9.1:
-  version "4.19.1"
-  resolved "https://registry.yarnpkg.com/xstate/-/xstate-4.19.1.tgz#6d6b5388b11a0297894be0caaef2299891c6fb6a"
-  integrity sha512-tnBh6ue9MiyoMkE2+w1IqfvJm4nBe3S4Ky/RLvlo9vka8FdO4WyyT3M7PA0pQoM/FZ9aJVWFOlsNw0Nc7E+4Bw==
+  version "4.19.2"
+  resolved "https://registry.yarnpkg.com/xstate/-/xstate-4.19.2.tgz#58ef6fc71737c76750ec61c5ff8b000101895d8a"
+  integrity sha512-eWI6kOHavcqhu1ACCmRowYGaQnH0KGvBoGg3lqmle9ZYyVWa2ZcVTgZlsK7o419/jw9gWX2LYmYGkm9w/VoXMA==
 
 xtend@^4.0.0, xtend@^4.0.1, xtend@~4.0.1:
   version "4.0.2"

@@ -11,6 +11,7 @@ module.exports = {
         path: 'src/blog'
       }
     },
-    'gatsby-transformer-remark'
+    'gatsby-transformer-remark',
+    'gatsby-plugin-no-javascript'
   ]
 };
